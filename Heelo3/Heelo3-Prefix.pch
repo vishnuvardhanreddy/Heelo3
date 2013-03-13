@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Heelo3' target in the 'Heelo3' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
